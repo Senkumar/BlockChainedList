@@ -1,2 +1,2 @@
 # BlockChainedList
-Attemp to Java Collection implementation for conceptual Block Chain
+Attemp to Java Collection implementation for conceptual Block Chain (coming soon)
