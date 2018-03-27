@@ -4,6 +4,7 @@ Attemp to Java Collection implementation for conceptual Block Chain.
 
 This version 1.0 contains basic BlockChain List implementation only. Wallet/Transaction concept will be updated as part of version 2.0
 
+Following test code shows : adding blocks to list, validating chain, tampering and validating:
 
     package myapp;
 
@@ -32,6 +33,7 @@ This version 1.0 contains basic BlockChain List implementation only. Wallet/Tran
     }
 
 Output:
+
     Adding blocks to list...
     Block Mined!!! : Curr: 000000222fa6a57e499011c543ef4d436cc7f63a3148ce7e72afec290da14899 Prev: 0 nonce : 3175611
     Added 1
